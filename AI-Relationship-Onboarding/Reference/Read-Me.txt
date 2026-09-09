@@ -1,0 +1,17 @@
+DO NOT SHARE — For the intended recipient’s onboarding use.
+
+NEW HERE? Open 00-START-HERE.pdf for the illustrated four-step guide, or 00-START-HERE.txt for plain text.
+
+VALUES-BASED AI RELATIONSHIP ONBOARDING
+
+Print/Client-Preview-Notebook.pdf — send before the session; optional handwritten preparation.
+Relationship-Notebook.html — open in a web browser; offline preparation and selected-note handoff.
+Facilitator/AI-Relationship-Session-Starter.txt — paste into the agreed AI chat to run the session, with or without selected handwritten images.
+Facilitator/Facilitator-Guide.md — how to run the first session, followed by all approved source guidance.
+Facilitator/Values-Based-AI-Relationship-Onboarding-Questionnaire.md — unchanged content source.
+
+The HTML contains its fonts, artwork, questions, and starter. No installation or internet connection is needed to use it. It contains no AI model. The conversation and settings drafting happen in the AI chat you choose.
+
+Notes stay in the open page until you explicitly copy, download, or open a saved notebook. Reloading or closing without saving loses them. A downloaded notebook contains non-private preparation notes. Keep private clears the current answer and excludes its text from exports. This cannot erase copies already downloaded or uploaded. Restoring replaces current notes only after you confirm. The browser's own downloads and the AI chat's privacy settings remain under your control.
+
+The AI session starter uses the nine-question source and requires reflection, client correction, and final section-by-section review. Preparation notes are not approved settings.
